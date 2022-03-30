@@ -1,9 +1,25 @@
-# {Amazing Spider-Man 1}
+# Captain America: Civil War
 
-- Year: 2012
+- Year: 2016
 - Name: Peter Benjamin Parker
 
-# {Amazing Spider-Man 2}
+# Spider-Man: Home Coming
 
-- Year: 2014
+- Year: 2017
+- Name: Peter Benjamin Parker
+
+# Avengers: Infinity war
+
+- Year: 2018
+- Name: Peter Bengamin Parker
+
+
+# Avengers: Endgame
+
+- Year: 2019
+- Name: Peter Bengamin Parker
+
+# Spider-Man: Far From Home
+
+- Year: 2019
 - Name: Peter Benjamin Parker
